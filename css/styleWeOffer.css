@@ -111,7 +111,7 @@ div.snowFall
     width: 100%;
     height: 100%;
     box-sizing: border-box;
-    background: url('../img/snowfall3.png');
+    background: url('../img/snowfall3-min.png');
     background-size: 100% 200%;
     background-position-y: 100%;
     animation: snowFall 10s linear infinite;
