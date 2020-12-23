@@ -61,7 +61,7 @@ img.catWeOfffer {
     position : absolute;
     bottom : 12px;
     left : 5%;
-    width : 19%;
+    width : 18%;
     z-index : 98;
 }
 
@@ -153,7 +153,10 @@ div.snowFall
     }
 }
 
-
+.shadowRed
+{
+    text-shadow: 2px 2px 2px orangered;
+}
 
 
 text {
